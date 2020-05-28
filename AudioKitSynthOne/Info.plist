@@ -93,6 +93,8 @@
 	</array>
 	<key>CFBundleVersion</key>
 	<string>$(CURRENT_PROJECT_VERSION)</string>
+	<key>LSApplicationCategoryType</key>
+	<string>public.app-category.music</string>
 	<key>LSApplicationQueriesSchemes</key>
 	<array>
 		<string>digitald1</string>
